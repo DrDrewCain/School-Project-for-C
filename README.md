@@ -1,0 +1,7 @@
+# School-Project-for-C
+
+This project was completed in my Computer Architecture class. The goal of this project was to simulate three different configurations of caches: direct-mapped caches, set-associative caches, and fully-associative caches. Furthermore, we also had to implement two replacement policies: least recently used policy (LRU), as well as first in first out policy (FIFO). The cache simulated in this program was also a one level write through cache, and could simulate caches with and without prefetching.
+
+This project was one of my favorite projects that I have done so far in my computer science career, despite all the sleepless nights of debugging and confusion. The reason why this project sticks out so much to me is the fact that I truly felt like I was able to understand how caches worked after completing this project. It truly challenged me to dive deeper and really understand how caches work. Constantly looking back at my notes and drawing out my thoughts and ideas on whiteboards, eventually translating my thoughts to diagrams of caches is what really allowed for me to complete this project.
+
+There are a bunch of improvements I believe I could have made, but overall I felt pretty good about the code. Eventually, I wish to implement bitwise operations to extract the tags, index, and block offset bits using character arrays to improve the performance of the program. Although the current runetime of the program is quite fast as it is. 
